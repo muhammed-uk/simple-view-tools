@@ -8,7 +8,7 @@ Gem::Specification.new do |spec|
 
   spec.summary       = %q{Few helpful view specific methods sits inside}
   spec.description   = %q{Provide generated HTML data for your rails app}
-  spec.homepage      = "#"
+  spec.homepage      = "https://kalathingal-digital-land-survey.business.site/"
   spec.license       = "MIT"
   spec.required_ruby_version = Gem::Requirement.new(">= 2.3.0")
 
